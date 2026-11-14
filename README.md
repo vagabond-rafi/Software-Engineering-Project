@@ -1,4 +1,4 @@
-# AIUB Canteen Management Syst
+# AIUB Canteen Management Syste
 
 A Software Engineering project developed to streamline canteen operations at the American International University-Bangladesh (AIUB). The system focuses on managing staff accounts, user access, billing, inventory, and order processing through structured workflows.
 
