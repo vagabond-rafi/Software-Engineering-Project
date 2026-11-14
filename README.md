@@ -28,6 +28,6 @@ A Software Engineering project developed to streamline canteen operations at the
 
 To apply software engineering principles and software testing practices throughout the development process, with an emphasis on requirement analysis, workflow validation, access control, and software quality assurance.
 
-## Author
+
 
 
